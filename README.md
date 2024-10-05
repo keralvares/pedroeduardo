@@ -1,5 +1,8 @@
 Grupo: PEDRO HENRIQUE FERREIRA QUERALVARES, EDUARDO LUCAS BANDRAO GOMES DA SILVA
-https://www.figma.com/design/7BDchTObrQP50Q5QxglR7P/Untitled?node-id=0-1&t=42tRkBn6Ez5DoRLT-1
+
+video da arquitetura- https://www.youtube.com/watch?v=S0Tb2CnlK80
+https://www.figma.com/design/7BDchTObrQP50Q5QxglR7P/Untitled?node-id=0-1&t=42tRkBn6Ez5DoRLT-1 
+
 API-própia
 Documento de Requisitos - GAMERSHUB
 1. Introdução
